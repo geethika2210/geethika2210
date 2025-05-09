@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Geethika
-- 👀 I’m interested in html,javascript
 
 
 <!---
